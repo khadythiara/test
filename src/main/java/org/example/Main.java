@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello world from Khady!");
         System.out.println("Hello world from DIAGNE!");
         System.out.println("Hello world from test windows!");
+        System.out.println("Hello world from test ubuntu!");
     }
 }
